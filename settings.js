@@ -28,7 +28,8 @@ global.region = 'indonesia'// bebas
 
 // Keperluan buttons
 global.myweb = 'https://youtube.com/channel/UChLk60L5CqrCdJxjeJbubGA'
-global.groupowner = 'https://chat.whatsapp.com/FnDno2PMo892cZGHcRXvNW'// GRUP LU 
+global.sc = 'https://github.com/RayhanTOD/RayhanBOT
+global.grupowner = 'https://chat.whatsapp.com/FnDno2PMo892cZGHcRXvNW'// GRUP LU 
 // Wm
 global.packname = 'Rayhan Chan'//BEBAS
 global.author = ':v'
